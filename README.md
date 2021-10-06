@@ -19,7 +19,7 @@
     <img
       width="256"
       align="right"
-      src="https://github.com/danbrown/danbrown/blob/master/devcard.svg"
+      src="https://github.com/danbrown/danbrown/blob/main/devcard.svg"
       alt="Daniel Brown's Dev Card"
     />
   </a>
@@ -43,5 +43,4 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://app.daily.dev/danbrown"><img src="https://github.com/danbrown/danbrown/blob/master/devcard.svg" width="400" /></a>
 
